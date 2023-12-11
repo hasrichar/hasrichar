@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
-<h3 align="center">pengembang fullstack bersemangat dari Indonesia, menggali dunia kode untuk menciptakan pengalaman digital yang luar biasa.</h3>
+<h3 align="center">Programmer Fullstack web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasrichar&label=Profile%20views&color=0e75b6&style=flat" alt="hasrichar" /> </p>
 
