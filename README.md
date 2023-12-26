@@ -35,4 +35,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasrichar&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="hasrichar" /></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasrichar&theme=react&hide_border=true" alt="hasrichar" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasrichar&theme=react&hide_border=true" alt="hasrichar" /></p>
+
+![snake gif](https://github.com/hasrichar/hasrichar/blob/output/github-contribution-grid-snake.gif)
+
 </div>
+
+
