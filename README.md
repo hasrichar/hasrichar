@@ -36,6 +36,3 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasrichar&theme=react&hide_border=true" alt="hasrichar" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasrichar&theme=react&hide_border=true" alt="hasrichar" /></p>
 </div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
